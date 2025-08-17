@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Мой DevOps сайт</title>
+  <meta charset="UTF-8">
+  <style>
+    body {
+      font-family: Arial;
+      text-align: center;
+      padding: 50px;
+      background: #f0f8ff;
+    }
+    h1 { color: #333; }
+    .update { color: #e74c3c; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <h1>Привет, это мой сайт!</h1>
+  <p>Я изучаю DevOps 🚀</p>
+  <p class="update">Последнее обновление: 10 июня 2025</p>
+</body>
+</html>
